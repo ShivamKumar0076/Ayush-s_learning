@@ -1,3 +1,5 @@
+<img width="884" height="399" alt="Insights png" src="https://github.com/user-attachments/assets/f9854d7f-407c-43ee-b433-835afae0802a" />
+<img width="443" height="338" alt="Dashboard png" src="https://github.com/user-attachments/assets/2cc823e5-e7ff-448c-8391-d0d762a7abbf" />
 [Retail_Analytics_Excel_Project.xlsx](https://github.com/user-attachments/files/28671260/Retail_Analytics_Excel_Project.xlsx)
 # Retail Sales Analytics Dashboard
 
