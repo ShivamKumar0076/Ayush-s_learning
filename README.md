@@ -1,8 +1,6 @@
-<img width="884" height="399" alt="Insights png" src="https://github.com/user-attachments/assets/f9854d7f-407c-43ee-b433-835afae0802a" />[Dashboards.pdf](https://github.com/user-attachments/files/28671500/Dashboards.pdf)
-
+<img width="970" height="585" alt="Dashboard png" src="https://github.com/user-attachments/assets/e462ba97-7974-4e55-8992-20fc1fa6f56e" />
 [Retail_Analytics_Excel_Project.xlsx](https://github.com/user-attachments/files/28671260/Retail_Analytics_Excel_Project.xlsx)
-# Retail Sales Analytics Dashboard
-
+<img width="884" height="399" alt="Insights png" src="https://github.com/user-attachments/assets/0dbd09d0-34fb-48a1-91d1-c2b2e6e03df9" />
 ## Project Overview
 This project analyzes retail sales data using Microsoft Excel. The dashboard provides insights into sales performance, profit, product categories, and regional performance.
 
