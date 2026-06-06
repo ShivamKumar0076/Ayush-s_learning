@@ -1,0 +1,31 @@
+# Retail Sales Analytics Dashboard
+
+## Project Overview
+This project analyzes retail sales data using Microsoft Excel.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- KPI Cards
+
+## Dashboard KPIs
+- Total Sales
+- Total Profit
+- Total Orders
+- Profit Margin
+
+## Key Insights
+- Technology generated the highest sales and profit.
+- South region recorded the highest sales.
+- Phone was the best-selling product.
+- July was the lowest-performing month.
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+## Business Insights
+
+![Insights](business_insights.png)
