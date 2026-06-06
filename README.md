@@ -1,3 +1,4 @@
+[Retail_Analytics_Excel_Project.xlsx](https://github.com/user-attachments/files/28671260/Retail_Analytics_Excel_Project.xlsx)
 # Retail Sales Analytics Dashboard
 
 ## Project Overview
